@@ -1,4 +1,0 @@
-[main] _2_2_10_task 1000 (0) exception: trapped!
-[main] _2_2_10_task 1000 (0) exception: code 0xC0000005 at 0x610535E0
-[main] _2_2_10_task 1000 (0) exception: ax 0xA031600 bx 0xFFFFF687 cx 0xA032000 dx 0xA031FFF
-[main] _2_2_10_task 1000 (0) exception: si 0xA031688 di 0xA031688 bp 0x246FBE4 sp 0x246FBDC
