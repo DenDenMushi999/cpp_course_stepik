@@ -1,0 +1,21 @@
+[main] gcd_recursion 1000 (0) exception: trapped!
+[main] gcd_recursion 1000 (0) exception: code 0xC0000094 at 0x4010EB
+[main] gcd_recursion 1000 (0) exception: ax 0xF bx 0x246FEA8 cx 0xF dx 0x0
+[main] gcd_recursion 1000 (0) exception: si 0x246FEAC di 0x401000 bp 0x246FEA0 sp 0x246FE84
+[main] gcd_recursion 1000 (0) exception: exception is: STATUS_INTEGER_DIVIDE_BY_ZERO
+[main] gcd_recursion 1000 (0) stack: Stack trace:
+[main] gcd_recursion 1000 (0) stack: frame 0: sp = 0x246F810, pc = 0x6100A2C3
+[main] gcd_recursion 1000 (0) stack: frame 1: sp = 0x246F84C, pc = 0x76FB8882
+[main] gcd_recursion 1000 (0) stack: frame 2: sp = 0x246F870, pc = 0x76FB8854
+[main] gcd_recursion 1000 (0) stack: frame 3: sp = 0x246F93C, pc = 0x76FA4EC6
+[main] gcd_recursion 1000 (0) stack: frame 4: sp = 0x246FEA0, pc = 0x401185
+[main] gcd_recursion 1000 (0) stack: frame 5: sp = 0x246FEC8, pc = 0x4011F9
+[main] gcd_recursion 1000 (0) stack: frame 6: sp = 0x246FEE8, pc = 0x61004402
+[main] gcd_recursion 1000 (0) stack: frame 7: sp = 0x246FF38, pc = 0x61004420
+[main] gcd_recursion 1000 (0) stack: frame 8: sp = 0x246FF44, pc = 0x4132FE
+[main] gcd_recursion 1000 (0) stack: frame 9: sp = 0x246FF54, pc = 0x40103A
+[main] gcd_recursion 1000 (0) stack: frame 10: sp = 0x246FF70, pc = 0x76D1FA29
+[main] gcd_recursion 1000 (0) stack: frame 11: sp = 0x246FF80, pc = 0x76F97A7E
+[main] gcd_recursion 1000 (0) stack: frame 12: sp = 0x246FFDC, pc = 0x76F97A4E
+[main] gcd_recursion 1000 (0) stack: frame 13: sp = 0x246FFEC, pc = 0x0
+[main] gcd_recursion 1000 (0) stack: End of stack trace
