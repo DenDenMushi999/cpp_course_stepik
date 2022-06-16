@@ -1,3 +1,5 @@
 *.vscode/
 *.un~
 *~
+*.exe
+*.core
